@@ -1,4 +1,4 @@
-![横幅](/profile/img/banner.png?raw=true)
+![横幅](/profile/img/banner.jpg?raw=true)
 
 ## Ant Design UI
 **Winform 界面库** 使用 Ant Design 5.0 设计语言
