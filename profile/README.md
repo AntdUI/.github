@@ -11,11 +11,10 @@ Open source・Free・Modern UI・Unified style
 - 🌈 High quality anti aliasing text rendering
 - 🎨 Pure GDI vector graphics, comfortable dynamic effects that can be interrupted
 - 😍 Emoji breaks the black and white boundaries and adds fun
-- 🚀 The most shadowed shadow effect on Winform
+- 💎 Superior shadow effects on Winforms
 - 📦 Borderless window with native window features
 - 👚 Theme configuration, black and white mode
-- 🌍 Globalization Support
-- 💎 3D Flip Effect
+- 🌍 Internationale
 - 🦜 SVG vector graphics
 - 👓 DPI adaptation
 - 🦺 AOT Release
