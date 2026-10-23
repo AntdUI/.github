@@ -1,5 +1,4 @@
-![Banner Dark](img/bannerdark.png?raw=true#gh-dark-mode-only)
-![Banner Light](img/banner.png?raw=true#gh-light-mode-only)
+![Banner](img/banner.png?raw=true)
 ## AntdUI
 
 开源・免费・现代界面・统一风格
